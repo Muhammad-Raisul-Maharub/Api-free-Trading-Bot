@@ -1,0 +1,21 @@
+rollbit-trading-bot/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── main.py
+├── utils/
+│   ├── __init__.py
+│   ├── indicators.py
+│   ├── state_manager.py
+|   └── trade_logic. 
+│
+├── ui/
+│   └── ui_handler.py        
+│
+├── bot/
+│   └── bot_logic.py
+├── settings.json        
+└── assets/
+    └── trade_logs.txt
+    
